@@ -43,10 +43,23 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 
 ---
 
-## 📂 Contents
+## 📂 Project Files
 
-- `data/` — Sample sales data (if included)
-- `analysis/` — Jupyter notebooks or scripts used for analysis
-- `visuals/` — Charts or dashboards
-- `README.md` — This documentation
+### Input Files
+- [Objective Description](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Input%20Data%20File/Bright%20Coffee%20Shop%20Sales%20Analysis%20(BRIGHTLIGHT).pdf) - Information File: Details the objectives of the exercise and what has to be executed.
+- [Bright Coffee Shop Sales](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Input%20Data%20File/Bright%20Coffee%20Shop%20Sales.csv) - Input Data CSV File: Contains the information of sales from January to June 2023.
+
+### Working Files
+- [Sales Analysis](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Working%20File/Working%20File.xlsx) - Output Data XLXS File: The output table from SQL, which was used to develop the visuals in the tab **'Sales Analysis'**.
+
+
+- [Project Plan](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Working%20File/Project%20Plan%20(Methodology).pdf) - Progress File: This file contains the detailed project plan.
+
+
+### Output Files
+
+- [Results Final Report](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Output%20File/Bright%20Coffee%20Shop%20Sales%20Analysis.pdf) - Output File: Contains the detailed analysis, with recommendations.
+
+- [Coffee Shop SQL Code](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Output%20File/Bright%20Coffee%20Shop%20Sales%20Analysis.sql) - Output SQL File: Contains the full SQL code developed.
+
 
