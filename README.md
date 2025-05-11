@@ -62,4 +62,6 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 
 - [Coffee Shop SQL Script](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script)/Bright%20Coffee%20Shop%20Sales%20Analysis.sql) - Output SQL File: Contains the full SQL code developed.
 
+- [Coffee Shop Python Script](https://github.com/Tiyani-Baloyi-Analyst/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script%20%2B%20Python%20Script)/Bright%20Coffee%20Shop%20Sales.py) - OUtput Python File: Contains the detailed code developed in python.
+
 
