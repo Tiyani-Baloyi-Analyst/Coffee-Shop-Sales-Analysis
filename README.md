@@ -67,13 +67,11 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 
 ---
 
----
-
 ## 🛠️ Tools & Technologies
 
-SQL (Standard)
-Snowflake Cloud Platform
-MS Excel
-Python (Google Colab)
+- SQL (Standard)
+- Snowflake Cloud Platform
+- MS Excel
+- Python (Google Colab)
 
 
